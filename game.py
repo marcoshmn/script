@@ -1,3 +1,4 @@
+#
 import random
 erros=0
 acertos=[]
